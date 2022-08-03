@@ -31,6 +31,8 @@
 ![](./layer1.png)
 ![](./layer2.png)
 
+![](./layers.png)
+
 
 ## 目标
 ![](./target.png)
